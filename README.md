@@ -5,3 +5,5 @@
  2. *pandas* 
  3. *sklearn train/test split module* 
  4. *sklearn linear_regression module*
+
+Dataset provided from : https://www.kaggle.com/datasets/tusharkute/cancer-probabilities
